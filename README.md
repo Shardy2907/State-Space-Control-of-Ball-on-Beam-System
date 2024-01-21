@@ -18,3 +18,9 @@ Make sure you have the following dependencies installed:
 - [Symbolic Math Toolbox](https://www.mathworks.com/products/symbolic.html)
 
 ## Simulink Demo
+
+
+
+
+https://github.com/Shardy2907/State-Space-Control-of-Ball-on-Beam-System/assets/110985317/f2edb254-15ed-4046-a9df-c4893d1586a5
+
