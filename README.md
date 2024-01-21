@@ -15,6 +15,6 @@ Make sure you have the following dependencies installed:
 ## Getting Started
 - A .pdf file is uploaded where you can have a look at the whole script directly.
 - The Demo down below shows the simulation performed on MATLAB/Simulink showing the working of this Project.
-- The .m and .slx files are available to download and try out for yourself ;)
+- The .mlx and .slx files are available to download and try out for yourself ;)
 
 ## Simulink Demo
